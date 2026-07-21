@@ -190,7 +190,7 @@ Silver tables:
 
 ### Silver Clinical Encounter Processing
 
-![Silver Clinical Encounters](silver_clinical_encounter.png)
+![Silver Clinical Encounters](screenshots/silver_clinical_encounter.png)
 
 This notebook output demonstrates the transformation and validation of clinical-encounter records before Gold reporting.
 
@@ -283,7 +283,7 @@ Encounter categories include:
 
 ### Gold Lakehouse Output
 
-![Gold Layer Tables](03_gold_layer_tables.png)
+![Gold Layer Tables](screenshots/03_gold_layer_tables.png)
 
 Gold summary tables contain category-level analytical results rather than individual source records.
 
@@ -322,7 +322,7 @@ The master orchestration pipeline manages:
 
 ### Successful Master Pipeline Run
 
-![Successful Master Pipeline](02_master_pipeline_success.png)
+![Successful Master Pipeline](screenshots/02_master_pipeline_success.png)
 
 The pipeline screenshot demonstrates successful execution of the Bronze, Silver, and Gold processing stages.
 
@@ -369,7 +369,7 @@ Invalid records are handled through Quarantine tables. The project does not use 
 
 ### Audit Table
 
-![Audit Table](audit_table.png)
+![Audit Table](screenshots/audit_table.png)
 
 The audit table records pipeline and notebook execution details for operational monitoring and traceability.
 
@@ -381,7 +381,7 @@ Power BI consumes Gold reporting tables for healthcare claims, encounter, billin
 
 ### Claims Overview
 
-![Power BI Claims Overview](powerbi/powerbi_claims_overview.png)
+![Power BI Claims Overview](screenshots/powerbi_claims_overview.png)
 
 The claims dashboard includes:
 
@@ -393,7 +393,7 @@ The claims dashboard includes:
 
 ### Facility Performance
 
-![Power BI Facility Performance](powerbi/powerbi_facility_performance.png)
+![Power BI Facility Performance](screenshots/powerbi_facility_performance.png)
 
 The facility dashboard includes:
 
