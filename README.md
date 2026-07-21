@@ -38,7 +38,7 @@ Power BI Dashboards
 
 ## Architecture Diagram
 
-![Microsoft Fabric Healthcare Architecture](microsoft_fabric_healthcare_data_platform.png)
+![Microsoft Fabric Healthcare Architecture](screenshots/microsoft_fabric_healthcare_data_platform.png)
 
 The architecture includes:
 
