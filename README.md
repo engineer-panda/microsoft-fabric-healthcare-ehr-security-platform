@@ -233,7 +233,7 @@ Implemented Gold tables:
 
 ### Gold Transformation Notebook
 
-![Gold Transformation Notebook](gold_notebook.png)
+![Gold Transformation Notebook](screenshots/gold_notebook.png)
 
 The Gold notebook creates reporting-ready tables for claims, encounter, diagnosis, facility, patient, and billing analysis.
 
